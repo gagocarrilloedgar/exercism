@@ -1,2 +1,2 @@
 # exercism
-Ecersism projects
+Exercism projects
